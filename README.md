@@ -2,9 +2,7 @@
 
 # Scanning for Vulnerabilities Project 
 
-This project is about Scanning a Windows VM using Nessus Agent Sensor Monitoring
-
-
+This project focuses on automated vulnerability scanning of a Windows virtual machine using the Nessus Agent Sensor. A key feature is the automatic deletion of a start.txt file upon its creation.
 ---
 # Tools & Technology:
 - Tenable (enterprise vulnerability management platform)
@@ -24,7 +22,6 @@ This project is about Scanning a Windows VM using Nessus Agent Sensor Monitoring
 - [Difference in Scan Duration](#difference-in-scan-duration)
 
 ---
-
 
 ### Step 1) Provision a Windows virtual machine in the Azure portal
 
@@ -46,7 +43,7 @@ This project is about Scanning a Windows VM using Nessus Agent Sensor Monitoring
 
 ---
 
-### Step 5) Run a PowerShell command: 
+### Step 5) Install the Nessus Agent by running a PowerShell command: 
 
 <img width="600" alt="powershell" src="https://github.com/user-attachments/assets/80712858-cc61-42b1-a11b-dc65675a0242" />
 
@@ -56,6 +53,11 @@ This project is about Scanning a Windows VM using Nessus Agent Sensor Monitoring
 
 <img width="600" alt="powershell" src="https://github.com/user-attachments/assets/4d648f85-d5b3-40f1-b519-d1cc9eadda06" />
 
+---
+
+### Step 7) start.txt file deleted: 
+
+<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/fff6a2bf-1427-4e9a-bd1a-98eb4bec6ad6" />
 
 ---
 
