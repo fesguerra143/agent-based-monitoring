@@ -13,14 +13,14 @@ This project focuses on automated vulnerability scanning of a Windows virtual ma
 ---
 # Table of contents
 
-- [Step 1) Create a Windows virtual machine in the Azure portal](#step-1-create-a-windows-virtual-machine-in-the-azure-portal)
-- [Step 2) Log into the VM and disable the Windows Firewall](#step-2-log-into-the-vm-and-disable-the-windows-firewall)
-- [Step 3) Run a PowerShell command:](#step-3-run-a-powershell-command)
-- [Step 4) Create a Network Security Group](#step-4-create-a-network-security-group)
-- [Step 5) Login to tenable](#step-5-login-to-tenable)
-- [Step 6) Run a Basic Scan: Unauthenticated](#step-6-run-a-basic-scan-unauthenticated)
-- [Step 7) Run a Basic Scan: Authenticated](#step-7-run-a-basic-scan-authenticated)
-- [Difference in Scan Duration](#difference-in-scan-duration)
+- [Step 1) Provision a Windows virtual machine in the Azure portal](#step-1-provision-a-windows-virtual-machine-in-the-azure-portal)
+- [Step 2) Tenable - Create an Agent Group](#step-2-tenable---create-an-agent-group)
+- [Step 3) Tenable - Create a Scan](#step-3-tenable---create-a-scan)
+- [Step 4) Remote Desktop Connection:](#step-4-remote-desktop-connection)
+- [Step 5) Install the Nessus Agent by running a PowerShell command:](#step-5-install-the-nessus-agent-by-running-a-powershell-command)
+- [Step 6) Create a start.txt file:](#step-6-create-a-starttxt-file)
+- [Step 7) start.txt file deleted:](#step-7-starttxt-file-deleted)
+- [Step 8) Agent Scan Results:](#step-8-agent-scan-results)
 
 ---
 
