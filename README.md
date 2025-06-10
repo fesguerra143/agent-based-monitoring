@@ -28,8 +28,6 @@ This project is about Scanning a Windows VM with Agent Based Monitoring
 
 ### Step 1) Provision a Windows virtual machine in the Azure portal
 
-#### Configure the Basics Tab: 
-
 <img width="600" alt="vm1" src="https://github.com/user-attachments/assets/25a55616-142d-4d7c-854b-2a88e2b99a7a" />
 
 ---
