@@ -40,26 +40,15 @@ This project is about Scanning a Windows VM using Nessus Agent Sensor Monitoring
 <img width="600" alt="agent" src="https://github.com/user-attachments/assets/9b26287e-f0d5-465b-9b1d-8650ceb7cc38" />
 
 
-#### Remote Desktop Connection:
+### Step 4) Remote Desktop Connection:
 
 <img width="600" alt="rdp" src="https://github.com/user-attachments/assets/8dd4702d-8112-40f6-94ac-8d98e7b506d9" />
 
 ---
 
-### Step 4) Run a PowerShell command: 
+### Step 5) Run a PowerShell command: 
 
 <img width="600" alt="powershell" src="https://github.com/user-attachments/assets/80712858-cc61-42b1-a11b-dc65675a0242" />
-
----
-
-### Step 4) Create a Network Security Group
-#### Inbound Security Rule to allow all traffic
-
-<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/cf486cee-1961-4e11-97e0-0a66e71a7028" />
-
-#### Test the NSG using Ping Command: 
-
-<img width="600" alt="ping command" src="https://github.com/user-attachments/assets/ee909eb2-e99b-48c9-abc9-823685faf7fa" />
 
 ---
 
