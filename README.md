@@ -52,38 +52,11 @@ This project is about Scanning a Windows VM using Nessus Agent Sensor Monitoring
 
 ---
 
-### Step 5) Login to tenable
+### Step 6) Create a start.txt file: 
 
-<img width="600" alt="tenablelogin" src="https://github.com/user-attachments/assets/65aa3c73-113b-4b85-8b79-de3a142d4e4b" />
-
----
-### Step 6) Run a Basic Scan: Unauthenticated
-#### Configure Scan basic settings
-
-<img width="600" alt="scan" src="https://github.com/user-attachments/assets/3acb6537-65cf-4df7-8bdc-8ebb6543ceea" />
-
-#### Scan Results
-<img width="600" alt="scan results" src="https://github.com/user-attachments/assets/fa337ccc-ab06-4b78-880e-982fa3ddeab1" />
-
-#### Tenable Vulnerability Management Report
-[Tenable Vulnerability Management Report - UnAuthenticated](https://drive.google.com/file/d/11Gtks85b8GboGLymJlLQIehsnZ-NUOhL/view?usp=sharing)
+<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/4d648f85-d5b3-40f1-b519-d1cc9eadda06" />
 
 
 ---
 
-### Step 7) Run a Basic Scan: Authenticated
-#### Configure Credentials
 
-<img width="600" alt="credentials" src="https://github.com/user-attachments/assets/d91cbe35-6577-434a-99b7-23db1c4b0ac6" />
-
-#### Scan Results
-<img width="600" alt="scan results" src="https://github.com/user-attachments/assets/9b1c8f8e-0ff2-45d8-80a6-c801e99d5fe8" />
-
-#### Tenable Vulnerability Management Report
-[Tenable Vulnerability Management Report - Authenticated](https://drive.google.com/file/d/1crKF3tikhzv756wu7t05l9pV3MXs9rhR/view?usp=sharing)
-
-
----
-### Difference in Scan Duration
-
-![scantime](https://github.com/user-attachments/assets/c2f715f4-fbdb-429e-9fd5-d9aa93477e94)
