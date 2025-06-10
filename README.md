@@ -2,9 +2,8 @@
 
 # Scanning for Vulnerabilities Project 
 
-This project is about Scanning a Windows VM: Authenticated vs. Unauthenticated
+This project is about Scanning a Windows VM with Agent Based Monitoring
 
-![Scanning Windows Authenticated vs Unauthenticated](https://github.com/user-attachments/assets/0475b1a7-3e0e-40a8-9341-08d97ee65d6e)
 
 ---
 # Tools & Technology:
