@@ -2,7 +2,7 @@
 
 # Scanning for Vulnerabilities Project 
 
-This project is about Scanning a Windows VM with Agent Based Monitoring
+This project is about Scanning a Windows VM using Nessus Agent Sensor Monitoring
 
 
 ---
