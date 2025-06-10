@@ -55,11 +55,14 @@ This project focuses on automated vulnerability scanning of a Windows virtual ma
 <img width="600" alt="powershell" src="https://github.com/user-attachments/assets/4d648f85-d5b3-40f1-b519-d1cc9eadda06" />
 
 ---
-
 ### Step 7) start.txt file deleted: 
 
 <img width="600" alt="powershell" src="https://github.com/user-attachments/assets/fff6a2bf-1427-4e9a-bd1a-98eb4bec6ad6" />
 
 ---
+### Step 8) Agent Scan Results: 
 
+<img width="600" alt="powershell" src="https://github.com/user-attachments/assets/f374888f-bc14-492b-9ccc-8fd98b192afd" />
+
+---
 
